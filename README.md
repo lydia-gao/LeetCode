@@ -81,4 +81,8 @@ My leettcode solutions
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/ym2244/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ym2244/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
