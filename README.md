@@ -23,6 +23,7 @@ My leettcode solutions
 | [0443-string-compression](https://github.com/ym2244/LeetCode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ym2244/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ym2244/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/ym2244/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1812-reformat-phone-number](https://github.com/ym2244/LeetCode/tree/master/1812-reformat-phone-number) |
 | [1894-merge-strings-alternately](https://github.com/ym2244/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -68,11 +69,13 @@ My leettcode solutions
 |  |
 | ------- |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ym2244/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/ym2244/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ym2244/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/ym2244/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/ym2244/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ym2244/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -97,4 +100,8 @@ My leettcode solutions
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/ym2244/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/ym2244/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
