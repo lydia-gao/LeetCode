@@ -26,6 +26,7 @@ My leettcode solutions
 | [1777-determine-if-two-strings-are-close](https://github.com/ym2244/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1812-reformat-phone-number](https://github.com/ym2244/LeetCode/tree/master/1812-reformat-phone-number) |
 | [1894-merge-strings-alternately](https://github.com/ym2244/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/ym2244/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -100,8 +101,13 @@ My leettcode solutions
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/ym2244/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/ym2244/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/ym2244/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/ym2244/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
