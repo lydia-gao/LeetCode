@@ -22,6 +22,7 @@ My leettcode solutions
 | [0392-is-subsequence](https://github.com/ym2244/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ym2244/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/ym2244/LeetCode/tree/master/0443-string-compression) |
+| [0535-encode-and-decode-tinyurl](https://github.com/ym2244/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ym2244/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ym2244/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ym2244/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -71,6 +72,7 @@ My leettcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/ym2244/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ym2244/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ym2244/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ym2244/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -119,4 +121,12 @@ My leettcode solutions
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/ym2244/LeetCode/tree/master/0394-decode-string) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/ym2244/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/ym2244/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
