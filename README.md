@@ -129,4 +129,16 @@ My leettcode solutions
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/ym2244/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+## Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/ym2244/LeetCode/tree/master/0904-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/ym2244/LeetCode/tree/master/0904-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/ym2244/LeetCode/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
