@@ -14,27 +14,12 @@ class Solution(object):
         :rtype: TreeNode
         """
 
-        def dfs(node):
-            if not node:
-                return (None, False, False)
+        if not root or root is p or root is q:
+            return root
 
-            left_lca, left_p, left_q = dfs(node.left)
-            right_lca, right_p, right_q = dfs(node.right)
+        left = self.lowestCommonAncestor(root.left, p, q)
+        right = self.lowestCommonAncestor(root.right, p, q)
 
-            found_p = left_p or right_p or node is p
-            found_q = left_q or right_q or node is q
-
-            # If LCA already found in left or right subtree, return it
-            if left_lca:
-                return (left_lca, True, True)
-            if right_lca:
-                return (right_lca, True, True)
-
-            # If current node is the split point
-            if found_p and found_q:
-                return (node, True, True)
-
-            return (None, found_p, found_q)
-
-        lca, _, _ = dfs(root)
-        return lca
+        if left and right:
+            return root
+        return left or right
