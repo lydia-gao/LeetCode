@@ -6,14 +6,12 @@ class Solution(object):
         :rtype: int
         """
         pos = len(nums) - 1
-        curr = pos
-        count = len(nums)
-        while curr >= 0:
+        curr = 0
+
+        while curr <= pos:
             if nums[curr] == val:
-                count -= 1
                 nums[curr] = nums[pos]
-                pos -= 1
-                curr -= 1
+                pos -= 1  # shrink valid range
             else:
-                curr -= 1
-        return count
+                curr += 1  # move to next only if current element is kept
+        return pos + 1
