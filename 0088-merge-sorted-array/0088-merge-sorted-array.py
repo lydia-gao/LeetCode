@@ -1,5 +1,5 @@
 class Solution(object):
-    def merge(self, nums1, n, nums2, m):
+    def merge(self, nums1, m, nums2, n):
         """
         :type nums1: List[int]
         :type m: int
@@ -7,22 +7,16 @@ class Solution(object):
         :type n: int
         :rtype: None Do not return anything, modify nums1 in-place instead.
         """
+        # fill from the end
         pos = m + n - 1
-        for pos in range(pos, -1, -1):
-            if n == 0:
-                nums1[pos] = nums2[m - 1]
+        m -= 1
+        n -= 1
+
+        while n >= 0:
+            if m >= 0 and nums1[m] > nums2[n]:
+                nums1[pos] = nums1[m]
                 m -= 1
-            elif m == 0:
-                nums1[pos] = nums1[n - 1]
-                n -= 1
             else:
-                if nums1[n - 1] > nums2[m - 1]:
-                    nums1[pos] = nums1[n - 1]
-                    n -= 1
-                else:
-                    nums1[pos] = nums2[m - 1]
-                    m -= 1
-        return
-
-
-        
+                nums1[pos] = nums2[n]
+                n -= 1
+            pos -= 1
