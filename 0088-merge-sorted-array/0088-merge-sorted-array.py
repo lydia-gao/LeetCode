@@ -13,6 +13,8 @@ class Solution(object):
         n -= 1
 
         while n >= 0:
+        # The goal is to merge all elements from nums2 into nums1.
+        # You stop when n < 0 (i.e., all elements from nums2 have been merged)
             if m >= 0 and nums1[m] > nums2[n]:
                 nums1[pos] = nums1[m]
                 m -= 1
