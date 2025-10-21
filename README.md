@@ -7,6 +7,7 @@ My leettcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ym2244/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lydia-gao/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lydia-gao/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/lydia-gao/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ym2244/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -40,6 +41,7 @@ My leettcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ym2244/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lydia-gao/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lydia-gao/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/lydia-gao/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/lydia-gao/LeetCode/tree/master/0216-combination-sum-iii) |
