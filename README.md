@@ -46,6 +46,7 @@ My leettcode solutions
 | [0027-remove-element](https://github.com/lydia-gao/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lydia-gao/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/lydia-gao/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/lydia-gao/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/ym2244/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ym2244/LeetCode/tree/master/0283-move-zeroes) |
@@ -84,6 +85,7 @@ My leettcode solutions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ym2244/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ym2244/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ym2244/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ym2244/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -93,6 +95,7 @@ My leettcode solutions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lydia-gao/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ym2244/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ym2244/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -123,6 +126,7 @@ My leettcode solutions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ym2244/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Stack
 |  |
@@ -175,4 +179,8 @@ My leettcode solutions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ym2244/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/lydia-gao/LeetCode/tree/master/0216-combination-sum-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
