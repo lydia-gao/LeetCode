@@ -11,10 +11,9 @@ class Solution(object):
             if n <= prev:
                 if prev > small:
                     profit += prev - small
-                small = n
             else:
                 profit += n - small
-                small = n
+            small = n
             prev = n
 
         return profit
