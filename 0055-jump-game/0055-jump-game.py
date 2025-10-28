@@ -4,9 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        goal = len(nums) - 1
-        for i in range(len(nums) - 2, -1, -1):
-            if i + nums[i] >= goal:
-                goal = i
-        return goal == 0
-
+        longest = 0
+        for i in range(0, len(nums)):
+            if i > longest:
+                return False
+            longest = max(longest, i + nums[i])
+        return True
