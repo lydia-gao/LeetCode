@@ -56,6 +56,7 @@ My leettcode solutions
 | [0189-rotate-array](https://github.com/lydia-gao/LeetCode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/lydia-gao/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/ym2244/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/lydia-gao/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ym2244/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ym2244/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ym2244/LeetCode/tree/master/0605-can-place-flowers) |
@@ -110,6 +111,7 @@ My leettcode solutions
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lydia-gao/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/lydia-gao/LeetCode/tree/master/0274-h-index) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ym2244/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ym2244/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -197,4 +199,8 @@ My leettcode solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/lydia-gao/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
