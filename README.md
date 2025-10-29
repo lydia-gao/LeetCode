@@ -39,6 +39,7 @@ My leettcode solutions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/lydia-gao/LeetCode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/lydia-gao/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ym2244/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -59,6 +60,7 @@ My leettcode solutions
 | [0274-h-index](https://github.com/lydia-gao/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ym2244/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ym2244/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/lydia-gao/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/ym2244/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ym2244/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ym2244/LeetCode/tree/master/0724-find-pivot-index) |
@@ -101,6 +103,7 @@ My leettcode solutions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ym2244/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/lydia-gao/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ym2244/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ym2244/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ym2244/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -157,6 +160,7 @@ My leettcode solutions
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/lydia-gao/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ym2244/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Hash Function
 |  |
@@ -203,4 +207,8 @@ My leettcode solutions
 |  |
 | ------- |
 | [0274-h-index](https://github.com/lydia-gao/LeetCode/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/lydia-gao/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
