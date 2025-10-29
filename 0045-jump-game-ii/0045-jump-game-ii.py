@@ -4,18 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        jumps = 0
         curr_end = 0
         farthest = 0
-        jump = 0
+        
         for i in range(len(nums) - 1):
-            curr = i + nums[i]
-            farthest = max(farthest, curr)
-            if curr_end >= len(nums) - 1:
-                return jump
+            farthest = max(farthest, i + nums[i])
             if i == curr_end:
+                jumps += 1
                 curr_end = farthest
-                jump += 1
-                continue
-            
-
-        return jump
+                
+        return jumps
