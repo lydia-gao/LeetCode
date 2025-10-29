@@ -13,7 +13,7 @@ class Solution(object):
             if i == curr_end:
                 jumps += 1
                 curr_end = farthest
-                if curr_end >= len(nums) - 1:
-                    return jumps
+                # if curr_end >= len(nums) - 1:
+                #     return jumps
 
         return jumps
