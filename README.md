@@ -9,6 +9,7 @@ My leettcode solutions
 | [0011-container-with-most-water](https://github.com/ym2244/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lydia-gao/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lydia-gao/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/lydia-gao/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lydia-gao/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/lydia-gao/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ym2244/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -47,6 +48,7 @@ My leettcode solutions
 | [0011-container-with-most-water](https://github.com/ym2244/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lydia-gao/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lydia-gao/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/lydia-gao/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lydia-gao/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lydia-gao/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lydia-gao/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -95,6 +97,7 @@ My leettcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lydia-gao/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lydia-gao/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lydia-gao/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lydia-gao/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -154,6 +157,7 @@ My leettcode solutions
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lydia-gao/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/ym2244/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/ym2244/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/ym2244/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -215,4 +219,8 @@ My leettcode solutions
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/lydia-gao/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/lydia-gao/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
