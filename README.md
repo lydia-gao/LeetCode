@@ -23,6 +23,7 @@ My leettcode solutions
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/lydia-gao/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lydia-gao/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ym2244/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/ym2244/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -40,6 +41,7 @@ My leettcode solutions
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/lydia-gao/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lydia-gao/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/lydia-gao/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lydia-gao/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -110,6 +112,7 @@ My leettcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/lydia-gao/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lydia-gao/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ym2244/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
