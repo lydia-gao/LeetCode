@@ -31,6 +31,7 @@ My leettcode solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ym2244/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lydia-gao/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/lydia-gao/LeetCode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/lydia-gao/LeetCode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/ym2244/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ym2244/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ym2244/LeetCode/tree/master/0392-is-subsequence) |
@@ -61,6 +62,7 @@ My leettcode solutions
 | [0042-trapping-rain-water](https://github.com/lydia-gao/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lydia-gao/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lydia-gao/LeetCode/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/lydia-gao/LeetCode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lydia-gao/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/lydia-gao/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lydia-gao/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -158,6 +160,7 @@ My leettcode solutions
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/lydia-gao/LeetCode/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/ym2244/LeetCode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/ym2244/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/ym2244/LeetCode/tree/master/2470-removing-stars-from-a-string) |
