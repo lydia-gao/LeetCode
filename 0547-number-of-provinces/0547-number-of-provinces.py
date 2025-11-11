@@ -11,8 +11,6 @@ class Solution:
                     dfs(j)
 
         for i in range(n):
-            if visited[i]:
-                continue
             if not visited[i]:
                 count += 1
                 visited[i] = True
