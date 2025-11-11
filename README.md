@@ -205,6 +205,7 @@ My leettcode solutions
 | [0199-binary-tree-right-side-view](https://github.com/lydia-gao/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lydia-gao/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ym2244/LeetCode/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/lydia-gao/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/lydia-gao/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/ym2244/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lydia-gao/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -224,6 +225,7 @@ My leettcode solutions
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/lydia-gao/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/lydia-gao/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/lydia-gao/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lydia-gao/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ym2244/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -259,5 +261,10 @@ My leettcode solutions
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/lydia-gao/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/lydia-gao/LeetCode/tree/master/0871-keys-and-rooms) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/lydia-gao/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
