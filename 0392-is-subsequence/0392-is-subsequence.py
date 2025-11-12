@@ -1,9 +1,9 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
-        finding = 0
-        for i in range(len(t)):
-            if finding == len(s):
+        sub = 0
+        for ch in t:
+            if sub == len(s):
                 return True
-            if s[finding] == t[i]:
-                finding += 1
-        return finding == len(s)
+            elif ch == s[sub]:
+                sub += 1
+        return sub == len(s)
