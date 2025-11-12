@@ -4,6 +4,6 @@ class Solution:
         for ch in t:
             if sub == len(s):
                 return True
-            elif ch == s[sub]:
+            if ch == s[sub]:
                 sub += 1
         return sub == len(s)
