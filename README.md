@@ -15,6 +15,7 @@ My leettcode solutions
 | [0088-merge-sorted-array](https://github.com/lydia-gao/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/lydia-gao/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ym2244/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/lydia-gao/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/lydia-gao/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ym2244/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ym2244/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -71,6 +72,7 @@ My leettcode solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lydia-gao/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/lydia-gao/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/lydia-gao/LeetCode/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/lydia-gao/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lydia-gao/LeetCode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/lydia-gao/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -151,6 +153,7 @@ My leettcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/lydia-gao/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1046-max-consecutive-ones-iii](https://github.com/ym2244/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Database
 |  |
