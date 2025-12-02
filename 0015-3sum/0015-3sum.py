@@ -22,6 +22,10 @@ class Solution:
                     # skip duplicates on left
                     while left < right and nums[left] == nums[left - 1]:
                         left += 1
+                    # Why we don't need to skip duplicates on right?
+                    # As long as i and left are deduped, the new triplet will always need a different right value.
+                    # That guarantees the triplet can't repeat, even if current right stays on duplicate values.
+
                 elif s < target:
                     left += 1
                 else:
