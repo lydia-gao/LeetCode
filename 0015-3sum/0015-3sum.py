@@ -2,7 +2,7 @@ class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         nums.sort()
         l = len(nums)
-        res = []
+        res = [] # can use set for remove duplicate, but now we have this algorithem to keep all triplet unique
 
         for i in range(l - 2):
             if i > 0 and nums[i] == nums[i - 1]:
