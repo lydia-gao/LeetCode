@@ -6,6 +6,8 @@ class Solution:
             return []
         res = set()
         for i in range(l - 2):
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
             curr = nums[i]
             target = - curr
             if target < curr:
@@ -18,6 +20,9 @@ class Solution:
                     res.add((nums[i], nums[left], nums[right]))
                     left += 1
                     right -= 1
+                # skip duplicates on left
+                    while left < right and nums[left] == nums[left - 1]:
+                        left += 1
                 elif acc < target:
                     left += 1
                 else:
