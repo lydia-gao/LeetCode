@@ -27,6 +27,7 @@ My leettcode solutions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lydia-gao/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/lydia-gao/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/lydia-gao/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lydia-gao/LeetCode/tree/master/0013-roman-to-integer) |
@@ -129,6 +130,7 @@ My leettcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lydia-gao/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/lydia-gao/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lydia-gao/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ym2244/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -151,6 +153,7 @@ My leettcode solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lydia-gao/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/lydia-gao/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ym2244/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/ym2244/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
