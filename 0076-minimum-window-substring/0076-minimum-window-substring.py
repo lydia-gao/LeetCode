@@ -1,31 +1,23 @@
-from collections import Counter
-
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if not s or not t:
-            return ""
-
         need = Counter(t)
         missing = len(t)
-
-        left = 0
+        l = 0
         min_len = float("inf")
         start = 0
-
-        for right, ch in enumerate(s):
-            if need[ch] > 0:
+        for r in range(len(s)):
+            curr = s[r]
+            if need[curr] > 0:
                 missing -= 1
-            need[ch] -= 1
-
+            need[curr] -= 1
             while missing == 0:
-                if right - left + 1 < min_len:
-                    min_len = right - left + 1
-                    start = left
-
-                left_char = s[left]
-                need[left_char] += 1
-                if need[left_char] > 0:
+                if min_len > r - l + 1:
+                    min_len = r - l + 1
+                    start = l
+                need[s[l]] += 1
+                if need[s[l]] > 0:
                     missing += 1
-                left += 1
-
+                l += 1
         return "" if min_len == float("inf") else s[start:start + min_len]
+
+
