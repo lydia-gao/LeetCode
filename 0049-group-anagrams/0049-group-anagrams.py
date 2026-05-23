@@ -5,7 +5,7 @@ class Solution:
             key = [0] * 26
             for c in s:
                 key[ord(c) - ord("a")] += 1
-            key = str(key)
+            key = tuple(key)
             if key not in res: 
                 res[key] = [] 
             res[key].append(s)
