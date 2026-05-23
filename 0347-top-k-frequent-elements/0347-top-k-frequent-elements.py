@@ -4,4 +4,4 @@ class Solution:
         for num in nums:
             freq[num] = freq.get(num, 0) + 1
         res = sorted(freq.items(), key = lambda item: item[1], reverse = True)
-        return [item[0] for item in res][:k]
+        return [item[0] for item in res[:k]]
