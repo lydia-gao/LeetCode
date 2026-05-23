@@ -35,6 +35,7 @@ My leettcode solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ym2244/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lydia-gao/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/lydia-gao/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/ym2244/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/lydia-gao/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/lydia-gao/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/lydia-gao/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -70,6 +71,7 @@ My leettcode solutions
 | [0027-remove-element](https://github.com/lydia-gao/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/lydia-gao/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lydia-gao/LeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/ym2244/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/lydia-gao/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/lydia-gao/LeetCode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lydia-gao/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -139,6 +141,7 @@ My leettcode solutions
 | [0013-roman-to-integer](https://github.com/lydia-gao/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ym2244/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/lydia-gao/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/ym2244/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/lydia-gao/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lydia-gao/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -151,6 +154,7 @@ My leettcode solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lydia-gao/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ym2244/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/lydia-gao/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/lydia-gao/LeetCode/tree/master/0274-h-index) |
