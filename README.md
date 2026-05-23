@@ -89,6 +89,7 @@ My leettcode solutions
 | [0274-h-index](https://github.com/lydia-gao/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ym2244/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ym2244/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/ym2244/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lydia-gao/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/ym2244/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ym2244/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -144,6 +145,7 @@ My leettcode solutions
 | [0049-group-anagrams](https://github.com/ym2244/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/lydia-gao/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ym2244/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lydia-gao/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ym2244/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ym2244/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -158,6 +160,7 @@ My leettcode solutions
 | [0088-merge-sorted-array](https://github.com/lydia-gao/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/lydia-gao/LeetCode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/ym2244/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ym2244/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ym2244/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -197,6 +200,7 @@ My leettcode solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ym2244/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ym2244/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Stack
 |  |
@@ -270,6 +274,7 @@ My leettcode solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ym2244/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -300,4 +305,16 @@ My leettcode solutions
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/lydia-gao/LeetCode/tree/master/0547-number-of-provinces) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ym2244/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ym2244/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ym2244/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
