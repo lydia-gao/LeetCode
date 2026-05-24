@@ -84,6 +84,7 @@ My leettcode solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lydia-gao/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/lydia-gao/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lydia-gao/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ym2244/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/lydia-gao/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/lydia-gao/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/ym2244/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -189,6 +190,7 @@ My leettcode solutions
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ym2244/LeetCode/tree/master/0200-number-of-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/lydia-gao/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/ym2244/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
@@ -241,6 +243,7 @@ My leettcode solutions
 | ------- |
 | [0101-symmetric-tree](https://github.com/ym2244/LeetCode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/lydia-gao/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ym2244/LeetCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lydia-gao/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ym2244/LeetCode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/lydia-gao/LeetCode/tree/master/0547-number-of-provinces) |
@@ -266,6 +269,7 @@ My leettcode solutions
 | ------- |
 | [0101-symmetric-tree](https://github.com/ym2244/LeetCode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/lydia-gao/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ym2244/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/lydia-gao/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/lydia-gao/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lydia-gao/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -328,4 +332,8 @@ My leettcode solutions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ym2244/LeetCode/tree/master/0509-fibonacci-number) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ym2244/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
