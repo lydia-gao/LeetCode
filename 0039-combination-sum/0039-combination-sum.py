@@ -5,8 +5,7 @@ class Solution:
         def dfs(sum: int, index: int):
             if sum == target:
                 # if i pass path in as arg in dfs, do i need to do deepcopy for path here? i think yes, since python pass args by reference
-                final = path[:]
-                res.append(final)
+                res.append(path[:])
                 return
             if sum > target:
                 return
