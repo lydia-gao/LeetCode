@@ -39,6 +39,7 @@ My leettcode solutions
 | [0058-length-of-last-word](https://github.com/lydia-gao/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/lydia-gao/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/lydia-gao/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ym2244/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/lydia-gao/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ym2244/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ym2244/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -75,6 +76,7 @@ My leettcode solutions
 | [0049-group-anagrams](https://github.com/ym2244/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/lydia-gao/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/lydia-gao/LeetCode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/ym2244/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lydia-gao/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/lydia-gao/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lydia-gao/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -190,6 +192,7 @@ My leettcode solutions
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ym2244/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ym2244/LeetCode/tree/master/0200-number-of-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/lydia-gao/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/ym2244/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -241,6 +244,7 @@ My leettcode solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ym2244/LeetCode/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/ym2244/LeetCode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/lydia-gao/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ym2244/LeetCode/tree/master/0200-number-of-islands) |
@@ -280,6 +284,7 @@ My leettcode solutions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ym2244/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/ym2244/LeetCode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/lydia-gao/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Divide and Conquer
 |  |
