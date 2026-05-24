@@ -1,35 +1,34 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        dr = [0, 0, 1, -1]
-        dc = [1, -1, 0, 0]
-        width = len(board[0])
-        height = len(board)
-        visited = [ [False] * width for _ in range(height)]
+        rows = len(board)
+        cols = len(board[0])
+        visited = [[False] * cols for _ in range(rows)]
+        dirs = [(1, 0), (-1, 0), (0, 1), (0, -1)]
 
-        def dfs(curr_count: int, row: int, col: int) -> bool:
-            if curr_count == len(word):
+        def dfs(row: int, col: int, index: int) -> bool:
+            if (
+                row < 0 or col < 0
+                or row >= rows or col >= cols
+                or visited[row][col]
+                or board[row][col] != word[index]
+            ):
+                return False
+
+            if index == len(word) - 1:
                 return True
-            target = word[curr_count]
+
             visited[row][col] = True
-            for i in range(0, 4):
-                curr_r = row + dr[i]
-                curr_c = col + dc[i]
-                if curr_c < 0 or curr_r < 0 or curr_c >= width or curr_r >= height or  visited[curr_r][curr_c]:
-                    continue
-                if board[curr_r][curr_c] != target:
-                    continue
-                if dfs(curr_count + 1, curr_r, curr_c):
+
+            for dr, dc in dirs:
+                if dfs(row + dr, col + dc, index + 1):
                     return True
+
             visited[row][col] = False
             return False
-    
-        for i in range(height):
-            for j in range(width):
-                if board[i][j] == word[0]:
-                    if dfs(1, i, j):
-                        return True
-                    
+
+        for row in range(rows):
+            for col in range(cols):
+                if dfs(row, col, 0):
+                    return True
+
         return False
-
-
-            
