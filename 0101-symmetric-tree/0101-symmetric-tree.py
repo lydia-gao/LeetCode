@@ -9,15 +9,17 @@ class Solution:
         if not root:
             return True
 
-        def is_symmetric(left: Optional[TreeNode], right: Optional[TreeNode]):
-            if not left and not right:
+        def mirror(left, right):
+            if left is None and right is None:
                 return True
-            elif left and right:
-                if left.val == right.val:
-                    return is_symmetric(left.left, right.right) and is_symmetric(left.right, right.left)
-            return False
+            if left is None or right is None:
+                return False
+            if left.val != right.val:
+                return False
+
+            return mirror(left.left, right.right) and mirror(left.right, right.left)
         
-        return is_symmetric(root.left, root.right)
+        return mirror(root.left, root.right)
 
 
         
